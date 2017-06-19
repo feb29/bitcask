@@ -1,0 +1,10 @@
+[package]
+name    = "bitcask"
+version = "0.1.0"
+authors = ["Kohei Watanabe <xbeef29@gmail.com>"]
+readme  = "README.md"
+license = "Unlisence/MIT"
+keywords = [ "bitcask" ]
+description = "bitcask storage"
+
+[dependencies]
